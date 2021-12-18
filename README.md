@@ -1,7 +1,7 @@
-# CoViTor Watch APP
+# CoViTor Watch APP (Bluetooth Serial Android Application)
 ### <i>!!This app created using android studio and java languange</i>
 
-For the embedded system used in this app, please visit https://github.com/rellpa/covitor_watch.
+For the embedded system that I use for this application, I uploaded it at https://github.com/rellpa/covitor_watch. There is complete information including how to make it.
 
 #
 
